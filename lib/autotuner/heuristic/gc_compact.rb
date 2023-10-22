@@ -7,7 +7,7 @@ module Autotuner
         private
 
         def supported?
-          true
+          false
         end
       end
 
